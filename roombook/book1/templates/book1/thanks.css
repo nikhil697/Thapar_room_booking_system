@@ -1,0 +1,39 @@
+/* body {
+    background-image: url("https://images.adsttc.com/media/images/5bf3/8f5f/08a5/e509/1100/01ce/large_jpg/-_Featured_Image.jpg?1542688591");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Open Sans", sans-serif;
+}
+
+.box-form {
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 700px;
+    height: 200px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+    flex: 1 1 100%;
+    align-items: stretch;
+    justify-content: space-between;
+    box-shadow: 0 0 20px 6px #3e0101d4;
+  }
+
+  .box-form div {
+    margin: auto;
+    line-height: 51px;
+    vertical-align: middle;
+  }
+  
+  .box-form div p {
+    margin: auto;
+    line-height: 51px;
+    vertical-align: middle;
+    text-align: center;
+  } */
